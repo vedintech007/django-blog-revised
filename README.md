@@ -1,0 +1,1 @@
+# Django skills revised
